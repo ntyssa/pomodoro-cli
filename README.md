@@ -24,7 +24,7 @@ Install dependencies via pip:
 ## 🚀 How to Run
 Clone the repository:
 ```
-git clone https://github.com/reaperswitches/pomodoro-cli.git
+git clone https://github.com/pastela/pomodoro-cli.git
 cd pomodoro-cli
 ```
 Run the script:
